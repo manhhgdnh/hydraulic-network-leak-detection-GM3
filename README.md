@@ -15,9 +15,9 @@ A hydraulic network is represented as a graph:
 
 Using the node conservation law, the problem is written as a linear system
 
-\[
+$$
 A p = b,
-\]
+$$
 
 where `A` is derived from the weighted graph Laplacian and Dirichlet boundary conditions impose known inlet and outlet pressures.
 
@@ -37,9 +37,9 @@ A direct determinant-based solver is implemented as a theoretical reference for 
 
 For the symmetric positive-definite system obtained after imposing boundary conditions, the project implements
 
-\[
+$$
 A = LL^T,
-\]
+$$
 
 followed by forward and backward substitutions.
 
