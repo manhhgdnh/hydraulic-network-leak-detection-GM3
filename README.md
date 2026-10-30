@@ -140,7 +140,7 @@ The tests verify the custom Cramer and Cholesky solvers against NumPy and reprod
 ## Technologies
 
 - Python
-- NumPy
+- NumPy 
 - Matplotlib
 - graph Laplacian modelling
 - Cholesky factorization
