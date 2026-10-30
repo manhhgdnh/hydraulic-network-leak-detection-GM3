@@ -149,7 +149,7 @@ The tests verify the custom Cramer and Cholesky solvers against NumPy and reprod
 
 ## Authors
 
-- Manh Hung Nguyen
-- Tan Minh Duy Ngo
+- Manh Hung NGUYEN
+- Tan Minh Duy NGO
 
 Academic project — INSA Rouen Normandie, GM3.
